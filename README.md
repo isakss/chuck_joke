@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/profile/isakss.png)](https://travis-ci.org/profile/isakss)
+
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
 
